@@ -4,8 +4,6 @@ I'm a software technologist and best practices leader with full-stack expertise 
 
 Lean • Enterprise Development • Web Development • Software Architecture • Healthcare Information Systems • Leadership • Mentoring • Distributed Team Oversight
 
-https://www.linkedin.com/in/rmontoya12/
-
 <!--
 **rmontoya12/rmontoya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
