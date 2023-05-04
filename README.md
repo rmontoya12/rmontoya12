@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software technologist and best practices leader with full-stack expertise on desktop, web, and cloud. I have extensive healthcare information technology background and I specialize in leading global development teams and helping foster a culture of collaboration across the enterprise. I'm customer-focused and results-driven with a proven track record of end-to-end solution design, delivery, and ownership.
+
+Lean • Enterprise Development • Web Development • Software Architecture • Healthcare Information Systems • Leadership • Mentoring • Distributed Team Oversight
+
 <!--
 **rmontoya12/rmontoya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
