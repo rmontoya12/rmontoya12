@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software technologist and best practices leader with full-stack expertise on desktop, web, and cloud. I have extensive ML and HIT background and I specialize in leading global development teams and helping foster a culture of collaboration across the enterprise. I'm customer-focused and results-driven with a proven track record of end-to-end solution design, delivery, and ownership.
+I'm a software technologist and best practices leader with full-stack expertise on desktop, web, and cloud. I have extensive ML and HIT background including productization and strategic guidance. I specialize in leading global development teams and helping foster a culture of collaboration across the enterprise. I'm customer-focused and results-driven with a proven track record of end-to-end solution design, delivery, and ownership.
 
 Lean • Enterprise Development • Machine Learning • Software Architecture • Healthcare Information Technology • Leadership • Mentoring • Distributed Team Oversight
 
